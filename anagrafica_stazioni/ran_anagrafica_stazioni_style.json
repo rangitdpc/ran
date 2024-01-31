@@ -10,11 +10,11 @@
               "key": "*",
               "value": "triangle",
               "options": {
-                "fillColor": "#FFFFFF",
-                "color": "#AAA000",
+                "fillColor": "#BBBFFF",
+                "color": "#000AAA",
                 "weight": 1,
                 "fillOpacity": 0.7,
-                "radius": 4
+                "radius": 5
               }
             }
           ]
