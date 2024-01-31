@@ -1,0 +1,22 @@
+{
+  "global_legend": "",
+  "name": "Anagrafica stazioni",
+  "header_popup": "Stazioni RAN",
+  "layers": [
+    
+    {
+      "key": 0,
+      "label": "Stazioni RAN"
+    }
+      ],
+  "today": {
+
+    "topo_json": [
+      "https://raw.githubusercontent.com/rangitdpc/ran/main/ran_anagrafica_stazioni.geojson"
+     ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/rangitdpc/ran/main/ran_anagrafica_stazioni_style.json"
+  ]
+}
