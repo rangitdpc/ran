@@ -13,7 +13,7 @@
               ],
               "value": "circle",
               "options": {
-                "fillColor": "#d5eaff",
+                "fillColor": "#ffffff",
                 "color": "#000000",
                 "weight": 1,
                 "fillOpacity": 0.7,
@@ -27,7 +27,7 @@
               ],
               "value": "circle",
               "options": {
-                "fillColor": "#abd5ff",
+                "fillColor": "#7fff00",
                 "color": "#000000",
                 "weight": 1,
                 "fillOpacity": 0.7,
@@ -41,7 +41,7 @@
               ],
               "value": "circle",
               "options": {
-                "fillColor": "#88c3e0",
+                "fillColor": "#ffd700",
                 "color": "#000000",
                 "weight": 1,
                 "fillOpacity": 0.7,
@@ -55,7 +55,7 @@
               ],
               "value": "circle",
               "options": {
-                "fillColor": "#529dcc",
+                "fillColor": "#ff8c00",
                 "color": "#000000",
                 "weight": 1,
                 "fillOpacity": 0.7,
