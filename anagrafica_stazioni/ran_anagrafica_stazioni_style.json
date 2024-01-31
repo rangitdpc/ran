@@ -1,7 +1,7 @@
 {
   "style_properties": [
     {
-      "propertyKey": "Regione",
+      "propertyKey": "siglastazione",
       "properties": [
         {
           "property": "shape",
