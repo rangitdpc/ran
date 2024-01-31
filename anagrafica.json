@@ -12,11 +12,11 @@
   "today": {
 
     "topo_json": [
-      "https://raw.githubusercontent.com/geosdi/ran-test/main/anagrafica_stazioni/ran_anagrafica_stazioni.geojson"
+      "https://raw.githubusercontent.com/rangitdpc/ran/main/ran_anagrafica_stazioni.geojson"
      ],
     "html_description": ""
   },
   "style": [
-    "https://raw.githubusercontent.com/geosdi/ran-test/main/anagrafica_stazioni/ran_anagrafica_stazioni_style.json"
+    "https://raw.githubusercontent.com/rangitdpc/ran/main/ran_anagrafica_stazioni_style.json"
   ]
 }
