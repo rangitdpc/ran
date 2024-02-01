@@ -1,6 +1,6 @@
 {
 	"style_properties": [{
-		"propertyKey": "pga",
+		"propertyKey": "PGA (cm/s²)",
 		"properties": [
 			{
 				"property": "icon",
