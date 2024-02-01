@@ -1,1 +1,37 @@
-{"type":"FeatureCollection","totalFeatures":1,"features":[{"type":"Feature","id":"RAN_last_event_localizz.fid--43f97b19_18756e2cb35_-69a9","geometry":{"type":"Point","coordinates":[14.3093,46.7657]},"geometry_name":"location","properties":{"evid":507221,"orid":507232,"lat":46.7657,"lon":14.3093,"time":"2023-04-02T19:15:11Z","ml":3.6,"nass":16,"depth":14.8,"auth":"INGV","numsta":6,"lddate":"2023-04-02T19:40:39Z","lastupd":"2023-04-02T21:42:53Z"}}],"crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:EPSG::4326"}}}
+{
+   "type":"FeatureCollection",
+   "totalFeatures":1,
+   "features":[
+      {
+         "type":"Feature",
+         "id":"RAN_last_event_localizz.fid--43f97b19_18756e2cb35_-69a9",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               13.2232,
+               42.7063
+            ]
+         },
+         "geometry_name":"location",
+         "properties":{
+            "evid":340867,
+            "orid":340916,
+			"evidINGV":7073641,
+            "lat":42.7063,
+            "lon":13.2232,
+            "time":"2016-08-24 01:36:32",
+            "ml":6.0,
+            "nass":120,
+            "depth":4,
+            "auth":"INGV",
+            "numsta":120
+         }
+      }
+   ],
+   "crs":{
+      "type":"name",
+      "properties":{
+         "name":"urn:ogc:def:crs:EPSG::4326"
+      }
+   }
+}
