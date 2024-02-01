@@ -1,20 +1,20 @@
 {
 	"style_properties": [{
-		"propertyKey": "PGA",
+		"propertyKey": "pga",
 		"properties": [
 			{
 				"property": "icon",
 				"values": [{
 						"key": 0,
-						"value": "url(https://raw.githubusercontent.com/pcm-dpc/ran-test/main/t0.png)"
+						"value": "url(https://raw.githubusercontent.com/rangitdpc/ran/main/evento/t0.png)"
 					},
 					{
 						"key": 100,
-						"value": "url(https://raw.githubusercontent.com/pcm-dpc/ran-test/main/t100.png)"
+						"value": "url(https://raw.githubusercontent.com/rangitdpc/ran/main/evento/t100.png)"
 					},
 					{
 						"key": 200,
-						"value": "url(https://raw.githubusercontent.com/pcm-dpc/ran-test/main/t200.png)"
+						"value": "url(https://raw.githubusercontent.com/rangitdpc/ran/main/evento/t200.png)"
 					}
 				]
 			}
