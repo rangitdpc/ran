@@ -13,8 +13,12 @@
 						"value": "url(https://raw.githubusercontent.com/rangitdpc/ran/main/evento/t100.png)"
 					},
 					{
-						"key": [100,1000],
+						"key": [100,500],
 						"value": "url(https://raw.githubusercontent.com/rangitdpc/ran/main/evento/t200.png)"
+					},
+					{
+						"key": [500,1000],
+						"value": "url(https://raw.githubusercontent.com/rangitdpc/ran/main/evento/t500.png)"
 					}
 				]
 			}
