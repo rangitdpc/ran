@@ -1,13 +1,24 @@
 {
   "style_properties": [
     {
-      "propertyKey": "siglastazione",
+      "propertyKey": "tipo",
       "properties": [
         {
           "property": "shape",
           "values": [
             {
-              "key": "*",
+              "key": "STREAMING",
+              "value": "triangle",
+              "options": {
+                "fillColor": "#00ff00",
+                "color": "#000AAA",
+                "weight": 1,
+                "fillOpacity": 0.7,
+                "radius": 5
+              }
+            },
+            {
+              "key": "TRIGGER",
               "value": "triangle",
               "options": {
                 "fillColor": "#BBBFFF",
@@ -23,5 +34,3 @@
     }
   ]
 }
-
-
