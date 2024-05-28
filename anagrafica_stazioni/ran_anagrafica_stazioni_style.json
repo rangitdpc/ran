@@ -10,7 +10,7 @@
               "key": "STREAMING",
               "value": "triangle",
               "options": {
-                "fillColor": "#00ff00",
+                "fillColor": "#0000ff",
                 "color": "#000AAA",
                 "weight": 1,
                 "fillOpacity": 0.7,
