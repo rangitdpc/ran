@@ -2,8 +2,8 @@
   "global_legend": "",
   "name": "",
   "header_popup": "Dettaglio stazione",
-  "layers": [
-    
+  "strategy_features": "not_intersect",
+  "layers": [    
     {
       "key": 0,
       "label": "Dettaglio stazione"
@@ -23,7 +23,7 @@
   "filter_config": {
     "filters_url": [
       {
-        "value": "siglastazione",
+        "value": "sta",
         "binding_key": "siglastazione"
       }
     ],
