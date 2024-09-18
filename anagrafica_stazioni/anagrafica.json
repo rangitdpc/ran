@@ -20,20 +20,20 @@
     "filters_url": [
       {
         "value": "sta",
-        "binding_key": "sta"
+        "binding_key": "siglastazione"
       }
     ],
     "filters_type": [
       {
+        "operator": "or",
         "filter_function": "textInclude",
-        "binding_key": "sta",
+        "binding_key": "siglastazione",
         "filter_on_fields": [
           "siglastazione"
         ],
         "layers": [
           0
-        ],
-        "operator": "and"
+        ]
       }
     ]
   },
