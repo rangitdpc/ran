@@ -23,7 +23,7 @@
   "filter_config": {
     "filters_url": [
       {
-        "value": "sta",
+        "value": "siglastazione",
         "binding_key": "siglastazione"
       }
     ],
