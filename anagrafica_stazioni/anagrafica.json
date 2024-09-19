@@ -21,6 +21,7 @@
     "https://raw.githubusercontent.com/rangitdpc/ran/main/anagrafica_stazioni/ran_anagrafica_stazioni_style.json"
   ],
   "filter_config": {
+    "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/anagrafica_stazioni/anagrafica_ran_filter_conf.json",
     "refresh": false,
     "filters_url": [
       {
