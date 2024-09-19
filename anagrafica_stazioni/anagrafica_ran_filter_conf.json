@@ -1,0 +1,18 @@
+{
+  "form_groups": [
+    {
+      "fields": [
+        {
+          "field_type": "TEXT",
+          "placeholder": "Cod Stazione",
+          "binding_key": "siglastazione"
+        },
+       {
+          "field_type": "BUTTON"
+        }
+
+      ]
+    }
+  ],
+  "label_total": "Totale"
+}
