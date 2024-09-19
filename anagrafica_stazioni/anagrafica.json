@@ -19,5 +19,27 @@
 
   "style": [
     "https://raw.githubusercontent.com/rangitdpc/ran/main/anagrafica_stazioni/ran_anagrafica_stazioni_style.json"
-  ]
+  ],
+  "filter_config": {
+    "refresh": false,
+    "filters_url": [
+      {
+        "value": "sta",
+        "binding_key": "siglastazione"
+      }
+    ],
+    "filters_type": [
+      {
+        "filter_function": "textInclude",
+        "binding_key": "siglastazione",
+        "filter_on_fields": [
+          "siglastazione"
+        ],
+        "layers": [
+          0
+        ],
+        "operator": "and"
+      }
+    ]
+  }
 }
