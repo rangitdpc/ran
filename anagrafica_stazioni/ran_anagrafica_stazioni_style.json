@@ -54,7 +54,7 @@
       ]
     },
     {
-      "propertyKey": "ondate",
+      "propertyKey": "region",
       "properties": [
         {
           "property": "shape",
@@ -63,10 +63,10 @@
               "key": "*",
               "value": "triangle",
               "options": {
-                "fillColor": "#FF0000",
-                "color": "#000AAA",
+                "fillColor": "#FFFFFF",
+                "color": "#000000",
                 "weight": 1,
-                "fillOpacity": 0.7,
+                "fillOpacity": 0.8,
                 "radius": 5
               }
             }
