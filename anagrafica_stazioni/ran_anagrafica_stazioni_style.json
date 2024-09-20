@@ -48,7 +48,16 @@
                 "fillOpacity": 0.7,
                 "radius": 5
               }
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "properties": [
+        {
+          "property": "shape",
+          "values": [
             {
               "value": "triangle",
               "options": {
@@ -59,9 +68,8 @@
                 "radius": 5
               }
             }
-          ]
-        }
+          }
       ]
-    }    
+    }
   ]
 }
