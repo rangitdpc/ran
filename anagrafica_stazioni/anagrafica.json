@@ -12,7 +12,7 @@
   "today": {
 
     "topo_json": [
-      "https://raw.githubusercontent.com/rangitdpc/ran/main/anagrafica_stazioni/dashboard_stazioni.geojson"
+      "https://raw.githubusercontent.com/rangitdpc/ran/main/anagrafica_stazioni/ran_anagrafica_stazioni.geojson"
      ],
     "html_description": ""
   },
