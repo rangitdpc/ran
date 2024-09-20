@@ -42,6 +42,17 @@
               "key": "0000-00-00",
               "value": "triangle",
               "options": {
+                "fillColor": "#00ff00",
+                "color": "#000AAA",
+                "weight": 1,
+                "fillOpacity": 0.7,
+                "radius": 5
+              }
+            },
+            {
+              "key": "*",
+              "value": "triangle",
+              "options": {
                 "fillColor": "#FF0000",
                 "color": "#000AAA",
                 "weight": 1,
