@@ -4,6 +4,7 @@
       "propertyKey": "tipo",
       "properties": [
         {
+          "visible": false,
           "property": "shape",
           "values": [
             {
