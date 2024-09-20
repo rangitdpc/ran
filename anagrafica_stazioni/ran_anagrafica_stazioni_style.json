@@ -39,7 +39,7 @@
           "property": "shape",
           "values": [
             {
-              "key": "!=0000-00-00",
+              "key": "0000-00-00",
               "value": "triangle",
               "options": {
                 "fillColor": "#00ff00",
@@ -50,7 +50,7 @@
               }
             },
             {
-              "key": "*",
+              "key": "!=0000-00-00",
               "value": "triangle",
               "options": {
                 "fillColor": "#FF0000",
