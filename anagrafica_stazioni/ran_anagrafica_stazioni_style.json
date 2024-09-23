@@ -54,7 +54,7 @@
               "value": "triangle",
               "options": {
                 "fillColor": "#FF0000",
-                "color": "#000000",
+                "color": "#000AAA",
                 "weight": 1,
                 "fillOpacity": 0.7,
                 "radius": 5
