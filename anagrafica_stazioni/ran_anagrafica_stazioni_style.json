@@ -33,7 +33,7 @@
       ]
     },
     {
-      "propertyKey": "Stato",
+      "propertyKey": "stato",
       "properties": [
         {
           "property": "shape",
