@@ -44,7 +44,7 @@
               "options": {
                 "fillColor": "#00ff00",
                 "color": "#000AAA",
-                "weight": 0.5,
+                "weight": 0.7,
                 "fillOpacity": 0.7,
                 "radius": 5
               }
@@ -55,7 +55,7 @@
               "options": {
                 "fillColor": "#FF0000",
                 "color": "#000AAA",
-                "weight": 0.5,
+                "weight": 0.7,
                 "fillOpacity": 0.7,
                 "radius": 5
               }
