@@ -44,7 +44,7 @@
               "options": {
                 "fillColor": "#0000cd",
                 "color": "white",
-                "weight": 0.7,
+                "weight": 0.65,
                 "fillOpacity": 0.65,
                 "radius": 5
               }
@@ -53,10 +53,10 @@
               "key": "CHIUSA",
               "value": "triangle",
               "options": {
-                "fillColor": "#FF0000",
-                "color": "#000AAA",
-                "weight": 0.7,
-                "fillOpacity": 0.7,
+                "fillColor": "#808080",
+                "color": "black",
+                "weight": 0.65,
+                "fillOpacity": 0.65,
                 "radius": 5
               }
             }
