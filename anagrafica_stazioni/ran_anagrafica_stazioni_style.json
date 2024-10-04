@@ -22,9 +22,9 @@
               "value": "triangle",
               "options": {
                 "fillColor": "#0000ff",
-                "color": "#000AAA",
+                "color": "white",
                 "weight": 1,
-                "fillOpacity": 0.7,
+                "fillOpacity": 0.65,
                 "radius": 5
               }
             }
