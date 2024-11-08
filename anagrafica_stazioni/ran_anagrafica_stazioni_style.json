@@ -39,7 +39,7 @@
           "property": "shape",
           "values": [
             {
-              "key": "APERTA",
+              "key": "ATTIVA",
               "value": "triangle",
               "options": {
                 "fillColor": "#0000cd",
@@ -50,7 +50,7 @@
               }
             },
             {
-              "key": "CHIUSA",
+              "key": "NON ATTIVA",
               "value": "triangle",
               "options": {
                 "fillColor": "#808080",
