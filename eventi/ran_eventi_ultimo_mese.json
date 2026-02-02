@@ -1,0 +1,24 @@
+{
+  "global_legend": "",
+  "name": "Eventi RAN Ultimo mese",
+  "header_popup": "Dettaglio evento",
+  "layers": [
+    
+    {
+      "key": 0,
+      "label": "Eventi RAN"
+    }
+      ],
+  "today": {
+
+    "topo_json": [
+      "https://raw.githubusercontent.com/rangitdpc/ran/main/eventi/ran_eventi_dati_ultimo_mese.geojson"
+     ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/rangitdpc/ran/main/eventi/ran_eventi_style.json"
+  ]
+}
+
+

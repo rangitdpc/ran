@@ -1,0 +1,27 @@
+{
+	"style_properties": [{
+		"propertyKey": "PGA (cm/s²)",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [{
+						"key": [0,50],
+						"value": "url(https://raw.githubusercontent.com/rangitdpc/ran/main/evento/t0.png)"
+					},
+					{
+						"key": [50,100],
+						"value": "url(https://raw.githubusercontent.com/rangitdpc/ran/main/evento/t100.png)"
+					},
+					{
+						"key": [100,500],
+						"value": "url(https://raw.githubusercontent.com/rangitdpc/ran/main/evento/t200.png)"
+					},
+					{
+						"key": [500,1000],
+						"value": "url(https://raw.githubusercontent.com/rangitdpc/ran/main/evento/t500.png)"
+					}
+				]
+			}
+		]
+	}]
+}

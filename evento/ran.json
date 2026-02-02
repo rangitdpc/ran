@@ -1,0 +1,35 @@
+{
+  "global_legend": "",
+  "name": "ML 6.0 - 2016-08-24 01:36:32",
+  "header_popup": "Stazione RAN",
+  "layers": [
+    {
+      "key": 0,
+      "label": "PGA MAX"
+    },
+    {
+      "key": 1,
+      "label": "Epicentro"
+    }
+  ],
+  "today": {
+    "attachment": [
+      {
+        "geojson": "https://raw.githubusercontent.com/rangitdpc/ran/main/evento/pgamax.geojson"
+      },
+      {
+        "geojson": "https://raw.githubusercontent.com/rangitdpc/ran/main/evento/last_event.geojson"
+      }
+    ],
+    "topo_json": [
+      "https://raw.githubusercontent.com/rangitdpc/ran/main/evento/pgamax.geojson",
+      "https://raw.githubusercontent.com/rangitdpc/ran/main/evento/last_event.geojson"
+
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/rangitdpc/ran/main/evento/pgamax_style.json",
+    "https://raw.githubusercontent.com/rangitdpc/ran/main/evento/lastevent_style.json"
+  ]
+}

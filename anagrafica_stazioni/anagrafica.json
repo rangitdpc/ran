@@ -1,0 +1,23 @@
+{
+  "global_legend": "Prova Legend",
+  "name": "",
+  "header_popup": "Dettaglio stazione",
+  "strategy_features": "not_intersect",
+  "layers": [    
+    {
+      "key": 0,
+      "label": "Dettaglio stazione"
+    }
+      ],
+  "today": {
+
+    "topo_json": [
+      "https://raw.githubusercontent.com/rangitdpc/ran/main/anagrafica_stazioni/elenco_stazioni.geojson"
+     ],
+    "html_description": ""
+  },
+
+  "style": [
+    "https://raw.githubusercontent.com/rangitdpc/ran/main/anagrafica_stazioni/ran_anagrafica_stazioni_style.json"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "tipo",
+      "properties": [
+        {
+          "property": "shape",
+          "values": [
+            {
+              "key": "STREAMING",
+              "value": "triangle",
+              "options": {
+                "fillColor": "#00ff00",
+                "color": "#000AAA",
+                "weight": 1,
+                "fillOpacity": 0.7,
+                "radius": 5
+              }
+            },
+            {
+              "key": "TRIGGER",
+              "value": "triangle",
+              "options": {
+                "fillColor": "#0000ff",
+                "color": "white",
+                "weight": 1,
+                "fillOpacity": 0.65,
+                "radius": 5
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "propertyKey": "stato",
+      "properties": [
+        {
+          "property": "shape",
+          "values": [
+            {
+              "key": "ATTIVA",
+              "value": "triangle",
+              "options": {
+                "fillColor": "#0000cd",
+                "color": "white",
+                "weight": 0.65,
+                "fillOpacity": 0.65,
+                "radius": 5
+              }
+            },
+            {
+              "key": "NON ATTIVA",
+              "value": "triangle",
+              "options": {
+                "fillColor": "#808080",
+                "color": "black",
+                "weight": 0.65,
+                "fillOpacity": 0.65,
+                "radius": 5
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

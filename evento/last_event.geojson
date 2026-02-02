@@ -1,0 +1,37 @@
+{
+   "type":"FeatureCollection",
+   "totalFeatures":1,
+   "features":[
+      {
+         "type":"Feature",
+         "id":"RAN_last_event_localizz.fid--43f97b19_18756e2cb35_-69a9",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               13.2232,
+               42.7063
+            ]
+         },
+         "geometry_name":"location",
+         "properties":{
+            "evid":340867,
+            "orid":340916,
+			"evidINGV":7073641,
+            "lat":42.7063,
+            "lon":13.2232,
+            "time":"2016-08-24 01:36:32",
+            "ml":6.0,
+            "nass":120,
+            "depth":4,
+            "auth":"INGV",
+            "numsta":120
+         }
+      }
+   ],
+   "crs":{
+      "type":"name",
+      "properties":{
+         "name":"urn:ogc:def:crs:EPSG::4326"
+      }
+   }
+}
